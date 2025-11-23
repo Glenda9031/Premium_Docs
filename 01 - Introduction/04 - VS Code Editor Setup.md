@@ -1,0 +1,17 @@
+# VS Code Editor Setup
+
+So in order to create websites and write HTML and CSS, you need a couple tools. Of course, you need a web browser such as Google Chrome or Firefox. I prefer Chrome and that's what I'll be using in this course. You also need something to write code with. This is called a text editor. There are also programs called IDEs, which stand for "Integrated Development Enviroments" and these are text editors with more features and bells and whistles for writing with programming languages like C# and Java. Visual Studio Code is the text editor that I'll be using and that I reccomend you use, especially for this course because we'll be using a couple extensions and tools with VS Code. VS Code is technically a text editor, but it has loads of features for just about any language and and there's tons of extensions that you can install to extend it's functionality.
+
+You can download VS Code at https://code.visualstudio.com. It's completely free and open-source. It's also cross platform, so it doesn't matter if you're on Windows, Mac or Linux. So go ahead and get it installed if you haven't already. If you really want to use a different editor, that's ok. Some other good ones are Sublime Text and Atom. There's also paid ones like Webstorm.
+
+In the next section, there's a few videos that you'll follow to install and use a couple extensions. If you click on the extensions icon on the left sidebar, you can see any extensions that you have installed and you can install new ones. One important extension we'll use is called Live Server. That's a local development server that will automatically refresh when you save a file. I'm not going to show you how to install that yet, because we have a video dedicated to it. There's also another extension called Prettier, which is a code formatter. We'll set that up as well. 
+
+All you need to do at the moment is get VS Code installed. You can browse the settings if you want by clicking on the gear icon in the bottom left or type `cmd+comma`. You can search for any settings that you want. For instance, I have my font set to 18, which is larger than normal, so you guys can see my code. 
+
+You can also install and change themes. If you click `cmd+shift+p` you will go to the command pallete and from there you can pretty much do anything or get to anywhere. If you type in "theme", you can choose which theme you want. I'm using the "GitHub Dark Default" theme, which is one that you have to install if you want to use it. You can do this from the extensions tab. Just search for Github theme.
+
+Now another thing that youll eventually need on your system is Git, which is a version control system that will allow you to version and save your code as well as collaborate and many other things. We're gonna have a section dedicated to Git, Github and web hosting, so Ill cover it more then, but if you want to download and install it now, you can goto git-scm.com or install it with homebrew if youre on a mac.
+
+Im gonna teach you some of the terminal commands as well, so well be using the terminal a bit. If youre on Mac or Linux, the terminal that comes with the operating system is fine. The Windows 11 terminal isn't bad, but I prefer soething called Git Bash, which actually comes with Git if you download from this website. ITs all preference though, you can use any terminal that you want.
+
+So as long as you have VS Code or any other editor setup, we can move on to the next section and start to learn HTML.
